@@ -2,7 +2,7 @@
 
 I’m a passionate Computer Science undergrad (AI & Robotics major) at VIT Chennai, deeply curious about building real-world software,AI and computer vision, smart autonomous systems, and AI-powered robotics—especially **drones** 🚁. I love blending software engineering with machine intelligence to create impactful tech, from full-stack web apps to autonomous  systems.
 
-![Riddhika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riddhikq&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Riddhika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiddhikaR&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
