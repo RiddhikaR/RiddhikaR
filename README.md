@@ -40,7 +40,7 @@ I’m a passionate Computer Science undergrad (AI & Robotics major) at VIT Chenn
 
 ## 📬 Let's Connect
 
-📫 Reach me at: [your.email@example.com](mailto:riddhika.625@gmail.com)
+📫 Reach me at: [riddhika.625@gmail.com](mailto:riddhika.625@gmail.com)
 
 
 
